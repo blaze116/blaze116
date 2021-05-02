@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hello<img src="https://github.com/blaze116/blaze116/blob/master/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://blaze116.github.io"><small>P A Y A L</small></a></h2>
+<h2>Hello<img src="https://github.com/blaze116/blaze116/blob/main/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://blaze116.github.io"><small>P A Y A L</small></a></h2>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=blaze116&show_icons=true&theme=tokyonight"alt="Github stats" width=45%>
@@ -20,10 +20,10 @@
 
 <div align="center" style="padding-top:10px;">
 <a href="https://www.instagram.com/payal_116/">
-<img src="https://github.com/blaze116/blaze116/blob/master/instagram.png" width=30px style="padding-right:10px;">
+<img src="https://github.com/blaze116/blaze116/blob/main/instagram.png" width=30px style="padding-right:10px;">
 </a>
 <a href="https://www.linkedin.com/in/payal-pote-94430919a/">
-<img src="https://github.com/blaze116/blaze116/blob/master/linkedin.png" width=30px style="padding-right:10px;">
+<img src="https://github.com/blaze116/blaze116/blob/main/linkedin.png" width=30px style="padding-right:10px;">
 </a>
 </div>
 
